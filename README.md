@@ -11,11 +11,11 @@
   
 <section> 
   <div>
-    <img src="https://github.com/michael0203/web/blob/main/web-1-f-PhotoRoom.png" alt="Imagem web-1" />
+    <img src="https://github.com/michael0203/mobile/blob/main/Android%20Phone%20mobile%201.png" alt="Imagem web-1" />
   </div>
 
   <div>
-    <img src="https://github.com/michael0203/web/blob/main/web-2-f-PhotoRoom.png" alt="Imagem web-2" />
+    <img src="https://github.com/michael0203/mobile/blob/main/Android%20Phone%20mobile%202.png" alt="Imagem web-2" />
   </div>
 </section>
   
